@@ -1,7 +1,8 @@
 # Pepekidz
 PepeKidz are 100% onchain NFTs! They are generated when you mint - RARITY is unknown until all 4200 are minted! Some of the Kids may also have Pets.
 
-https://mint.pepetokens.lol/
+https://mint.pepetokens.lol/ 
+
 https://discord.gg/PT2tDQpRe4
 
 
