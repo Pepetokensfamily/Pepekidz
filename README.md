@@ -10,7 +10,16 @@ Connect the PepeKidz_w_Pets.sol contract via https://remix.ethereum.org/ to PEPZ
 Connect the IUniswapV2ERC20.sol contract to PEPI-PEPE LP contract addresses.
 
 At https://remix.ethereum.org/, create new files named exact as the 3 contracts, and copy/paste the contracts into them. 
-Go to compile, and compile the contract you intend to interact with. When compiled, go to deploy and run contracts, choose `Injected Provider - MetaMask`, choose the contract named PepeKidz, and put the PEPZ contract address after the blue `At Address` button, then click the button. 
+![image](https://github.com/Pepetokensfamily/Pepekidz/assets/38845458/451e6d0b-0306-4af3-891e-a6fc1a3f51fb)
+
+Go to compile, and compile the contract you intend to interact with. 
+![image](https://github.com/Pepetokensfamily/Pepekidz/assets/38845458/ec83f8df-c110-41b8-ade8-c1ab8d4b90bc)
+
+
+When compiled, go to deploy and run contracts, choose `Injected Provider - MetaMask`, choose the contract named PepeKidz, and put the PEPZ contract address after the blue `At Address` button, then click the button. 
+![image](https://github.com/Pepetokensfamily/Pepekidz/assets/38845458/a524ac41-80c4-48d3-be07-d40bae1bcee1)
+
+
 
 ALT:	  PEPZ: `0xAdCd78D962190764A2ea703e7072cbF222197F47` 	 PEPI-PEPE LP: `0x284f01a8ab6542e8e257f289a2c4e851c7ebc82e`
 
