@@ -31,6 +31,9 @@ GRAMS:  PEPZ: `0xbB1f8B3a73a0B5084aF9a95e748f9d84DdBA6E88`  PEPI-PEPE LP: `0x63A
 ETHO:   PEPZ: `tba`  PEPI-PEPE LP: `0x59c8Bc25474aC63371b5999FaE44b6c6eA1bb0E9`
 
 # Contract interaction
+
+Reading from contract is done using the blue buttons as shown below. Insert your address, index numbers and such in the field behind, then click the blue button. Click the small ˅ to extend the field. 
+
 1. Use the `balanceOf` function to find how many NFTs you have. 
 2. You can then insert address and index number to the function `tokenOfOwnerByIndex` to find your actual PEPZ # numbers. Index count from 0, so if you have 5 NFTs, your index range is 0-4.
 
